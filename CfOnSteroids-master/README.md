@@ -2,8 +2,6 @@
 
 [![N|Solid](https://i.ibb.co/DLZyhQJ/ico128.png)](#)
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/deadlyaman/CfOnSteroids/tree/master)
-
 Cf on Steroids is a chrome web extension that modifies the following user details in Codeforces.com 
   - Role  
   - Rating
